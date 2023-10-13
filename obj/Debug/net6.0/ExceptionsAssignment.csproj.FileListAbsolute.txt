@@ -1,0 +1,14 @@
+/Users/fateh/Projects/ExceptionsAssignment/bin/Debug/net6.0/ExceptionsAssignment
+/Users/fateh/Projects/ExceptionsAssignment/bin/Debug/net6.0/ExceptionsAssignment.deps.json
+/Users/fateh/Projects/ExceptionsAssignment/bin/Debug/net6.0/ExceptionsAssignment.runtimeconfig.json
+/Users/fateh/Projects/ExceptionsAssignment/bin/Debug/net6.0/ExceptionsAssignment.dll
+/Users/fateh/Projects/ExceptionsAssignment/bin/Debug/net6.0/ExceptionsAssignment.pdb
+/Users/fateh/Projects/ExceptionsAssignment/obj/Debug/net6.0/ExceptionsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fateh/Projects/ExceptionsAssignment/obj/Debug/net6.0/ExceptionsAssignment.AssemblyInfoInputs.cache
+/Users/fateh/Projects/ExceptionsAssignment/obj/Debug/net6.0/ExceptionsAssignment.AssemblyInfo.cs
+/Users/fateh/Projects/ExceptionsAssignment/obj/Debug/net6.0/ExceptionsAssignment.csproj.CoreCompileInputs.cache
+/Users/fateh/Projects/ExceptionsAssignment/obj/Debug/net6.0/ExceptionsAssignment.dll
+/Users/fateh/Projects/ExceptionsAssignment/obj/Debug/net6.0/refint/ExceptionsAssignment.dll
+/Users/fateh/Projects/ExceptionsAssignment/obj/Debug/net6.0/ExceptionsAssignment.pdb
+/Users/fateh/Projects/ExceptionsAssignment/obj/Debug/net6.0/ExceptionsAssignment.genruntimeconfig.cache
+/Users/fateh/Projects/ExceptionsAssignment/obj/Debug/net6.0/ref/ExceptionsAssignment.dll
